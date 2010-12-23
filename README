@@ -10,8 +10,6 @@ Validation:
 
 ////////////////////// Description ///////////////////////////////////////////////////////////
 
-UI Engineering Puzzle:
-
 Part I: Write a function (either PHP or JS) to lay out a series of events on the calendar for a single day.
 
 Events will be placed on a canvas.  The top of the canvas represents 9am and the bottom represents 9pm. The width of the canvas will be 620px (10px padding on either side) and the height will be 720px (1 pixel for every minute between 9am and 9pm). The objects should be laid out so that they do not visually overlap on the canvas. If there is only one event at a given time slot, its width should be 600px.
@@ -59,6 +57,5 @@ An event that starts at 7:10pm and ends at 8:10pm
 
 ////////////////////// End of Description ////////////////////////////////////////////////////////
 
-************************ How to Use Events Calendar
 
 
